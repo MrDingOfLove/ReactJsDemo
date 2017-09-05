@@ -1,2 +1,2 @@
-# ReactJsDemo
-练习
+# LiminApp
+React + webpack 搭建 webApp

@@ -1,0 +1,5 @@
+export const MEMO = '/api/homelist/'
+export const HISTORY = ''
+export const METER = ''
+export const REPAIRS = ''
+export const REPORT = ''
